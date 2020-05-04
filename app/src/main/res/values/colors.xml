@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <!--<color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#D81B60</color>-->
+
+
+    <color name="colorPrimary">#6DD400</color>
+    <color name="chat_bottom_disabled_color">#6DD400</color>
+    <color name="picker_primary_color">#6DD400</color>
+    <color name="colorPrimaryDark">#62be00</color>
+    <color name="colorAccent">#80000000</color>
+    <color name="fugu_theme_color_primary_pressed">#996DD400</color>
+
+
+    <color name="start_color">#6DD400</color>
+    <color name="center_color">#62be00</color>
+    <color name="end_color">#62be00</color>
+    <color name="special_bg">#E0F9FF</color>
+    <color name="color_self">#f1f1f4</color>
+
 </resources>

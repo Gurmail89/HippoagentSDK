@@ -1,2 +1,2 @@
-include ':app', ':hippoagentsdk'
+include ':app'
 rootProject.name='AgentSDK'
